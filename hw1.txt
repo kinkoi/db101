@@ -1,0 +1,8 @@
+Install SQLite Browser
+
+Install sqlitebrowser from http://sqlitebrowser.org/
+Download this file https://github.com/kinkoi/db101/blob/master/contact.db
+Open it from sqlitebrowser and browse it around
+
+Watch the following Video
+https://www.youtube.com/watch?v=IXycPq7MnwE
